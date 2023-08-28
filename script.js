@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const stayTunedBtn = document.getElementById("stayTunedBtn");
     
     stayTunedBtn.addEventListener("click", function() {
-      alert("Get ready for an epic gaming experience!");
+      alert("meep-morp-zeet, I am still in progress!");
     });
   
     const socialIcons = document.querySelectorAll(".social-icon");
